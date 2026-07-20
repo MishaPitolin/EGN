@@ -1,6 +1,6 @@
 """
 =============================================================================
-  egn_data_stage1.py  —  EGN data pipeline, Stage 1: CoDEx-M loading
+  egn_data_stage1.py  --  EGN data pipeline, Stage 1: CoDEx-M loading
 =============================================================================
 
   INSTRUCTIONS (Google Colab):
@@ -10,26 +10,26 @@
     4. Run all cells.
 
   What this script does:
-    - Loads CoDEx-M from HuggingFace datasets (streaming=True, no disk save).
+    - Loads CoDEx-M directly from GitHub raw TSV (tsafavi/codex).
     - Builds entity2id and relation2id by scanning triples.
     - Prints entity count, relation count, triple count per split.
     - Computes parameter count for nn.Embedding(num_entities, 384) +
       nn.Embedding(num_relations, 384).
 
   Requirements (auto-installed in Colab):
-    pip install datasets
+    pip install pandas
 =============================================================================
 """
 
 # ---------------------------------------------------------------------------
-# Colab setup — run this cell first
+# Colab setup -- run this cell first
 # ---------------------------------------------------------------------------
 # @title 1. Install & imports
 # @markdown Run this cell to install dependencies and import modules.
 
 import sys, subprocess, pkg_resources, math
 
-_REQUIRED = {"datasets"}
+_REQUIRED = {"pandas"}
 
 _installed = {d.key for d in pkg_resources.working_set}
 _missing = _REQUIRED - _installed
@@ -38,66 +38,46 @@ if _missing:
     subprocess.check_call([sys.executable, "-m", "pip", "install", *sorted(_missing)])
     print("Done.\n")
 
-import datasets
+import pandas as pd
 import torch
 
 # ---------------------------------------------------------------------------
-# 2. Load CoDEx-M — streaming only, no disk storage
+# 2. Load CoDEx-M -- TSV from GitHub raw
 # ---------------------------------------------------------------------------
-# @title 2. Load CoDEx-M (streaming)
-# @markdown Downloads nothing to disk; iterates triples on the fly.
+# @title 2. Load CoDEx-M (GitHub raw TSV into memory -- < 5 MB total)
+# @markdown Downloads three TSV files from tsafavi/codex; no permanent disk storage.
 
-print("Loading CoDEx-M (streaming)...")
+BASE_URL = "https://raw.githubusercontent.com/tsafavi/codex/master/data/triples/codex-m"
+splits_available = ["train", "valid", "test"]
+dataset = {}
 
-_CONFIG_CANDIDATES = ["codex_m", "codex-m", "medium", "codex_medium"]
-_loaded = False
-for cfg in _CONFIG_CANDIDATES:
-    try:
-        dataset = datasets.load_dataset("codex", cfg, streaming=True, split=None)
-        splits_available = list(dataset.keys())
-        print(f"  Configuration '{cfg}' OK. Splits: {splits_available}")
-        _loaded = True
-        break
-    except Exception as e:
-        print(f"  Config '{cfg}' failed: {e}")
-        continue
-
-if not _loaded:
-    # Last resort: load without config (dataset default)
-    dataset = datasets.load_dataset("codex", streaming=True)
-    if isinstance(dataset, dict):
-        splits_available = list(dataset.keys())
-    else:
-        splits_available = ["train"]
-        dataset = {"train": dataset}
-    print(f"  Loaded default config. Splits: {splits_available}")
+print("Loading CoDEx-M from GitHub raw...")
+for split_name in splits_available:
+    url = f"{BASE_URL}/{split_name}.txt"
+    df = pd.read_csv(url, sep="\t", header=None, names=["subject", "relation", "object"])
+    dataset[split_name] = df
+    print(f"  Loaded {split_name}: {len(df):,} triples")
+print("Done.")
 
 # ---------------------------------------------------------------------------
-# 3. Build entity2id / relation2id by streaming all splits
+# 3. Build entity2id / relation2id
 # ---------------------------------------------------------------------------
 # @title 3. Build entity2id & relation2id
-# @markdown Scans every triple exactly once.
 
 entity2id = {}
 relation2id = {}
 triple_count = {}
 
 for split_name in splits_available:
-    split = dataset[split_name]  # IterableDataset — streamed, not loaded in RAM
-    cnt = 0
-    for row in split:
-        if "subject" in row:
-            s, r, o = row["subject"], row["relation"], row["object"]
-        else:
-            s, r, o = row["head"], row["relation"], row["tail"]
+    df = dataset[split_name]
+    for s, r, o in zip(df["subject"], df["relation"], df["object"]):
         if s not in entity2id:
             entity2id[s] = len(entity2id)
         if o not in entity2id:
             entity2id[o] = len(entity2id)
         if r not in relation2id:
             relation2id[r] = len(relation2id)
-        cnt += 1
-    triple_count[split_name] = cnt
+    triple_count[split_name] = len(df)
 
 # ---------------------------------------------------------------------------
 # 4. Statistics
