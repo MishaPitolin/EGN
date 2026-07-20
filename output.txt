@@ -1,0 +1,896 @@
+﻿=== Peaceful graph, message passing ===
+
+[peaceful-mp                                 ] step  0  E = 0.252709  alpha = 0.3000
+[peaceful-mp                                 ] step  1  E = -0.158384  alpha = 0.3000
+[peaceful-mp                                 ] step  2  E = -0.414319  alpha = 0.3000
+[peaceful-mp                                 ] step  3  E = -0.576617  alpha = 0.2700
+[peaceful-mp                                 ] step  4  E = -0.670115  alpha = 0.2430
+[peaceful-mp                                 ] step  5  E = -0.728121  alpha = 0.2187
+[peaceful-mp                                 ] step  6  E = -0.766567  alpha = 0.1968
+[peaceful-mp                                 ] step  7  E = -0.793523  alpha = 0.1771
+[peaceful-mp                                 ] step  8  E = -0.813314  alpha = 0.1594
+[peaceful-mp                                 ] step  9  E = -0.828389  alpha = 0.1435
+[peaceful-mp                                 ] step 10  E = -0.840207  alpha = 0.1291
+[peaceful-mp                                 ] step 11  E = -0.849686  alpha = 0.1162
+[peaceful-mp                                 ] step 12  E = -0.857427  alpha = 0.1046
+[peaceful-mp                                 ] step 13  E = -0.863838  alpha = 0.0941
+[peaceful-mp                                 ] step 14  E = -0.869211  alpha = 0.0847
+[peaceful-mp                                 ] step 15  E = -0.873756  alpha = 0.0763
+[peaceful-mp                                 ] step 16  E = -0.877631  alpha = 0.0686
+[peaceful-mp                                 ] step 17  E = -0.880958  alpha = 0.0618
+[peaceful-mp                                 ] step 18  E = -0.883830  alpha = 0.0556
+[peaceful-mp                                 ] step 19  E = -0.886321  alpha = 0.0500
+[peaceful-mp                                 ] step 20  E = -0.888491  alpha = 0.0500
+[peaceful-mp                                 ] step 21  E = -0.890597  alpha = 0.0500
+[peaceful-mp                                 ] step 22  E = -0.892642  alpha = 0.0500
+[peaceful-mp                                 ] step 23  E = -0.894629  alpha = 0.0500
+[peaceful-mp                                 ] step 24  E = -0.896560  alpha = 0.0500
+[peaceful-mp                                 ] step 25  E = -0.898437  alpha = 0.0500
+[peaceful-mp                                 ] step 26  E = -0.900262  alpha = 0.0500
+[peaceful-mp                                 ] step 27  E = -0.902036  alpha = 0.0500
+[peaceful-mp                                 ] step 28  E = -0.903761  alpha = 0.0500
+[peaceful-mp                                 ] step 29  E = -0.905440  alpha = 0.0500
+[peaceful-mp                                 ] step 30  E = -0.907073  alpha = 0.0500
+[peaceful-mp                                 ] step 31  E = -0.908662  alpha = 0.0500
+[peaceful-mp                                 ] step 32  E = -0.910208  alpha = 0.0500
+[peaceful-mp                                 ] step 33  E = -0.911713  alpha = 0.0500
+[peaceful-mp                                 ] step 34  E = -0.913178  alpha = 0.0500
+[peaceful-mp                                 ] step 35  E = -0.914605  alpha = 0.0500
+[peaceful-mp                                 ] step 36  E = -0.915993  alpha = 0.0500
+[peaceful-mp                                 ] step 37  E = -0.917345  alpha = 0.0500
+[peaceful-mp                                 ] step 38  E = -0.918661  alpha = 0.0500
+[peaceful-mp                                 ] step 39  E = -0.919943  alpha = 0.0500
+[peaceful-mp                                 ] step 40  E = -0.921192  alpha = 0.0500
+[peaceful-mp                                 ] step 41  E = -0.922408  alpha = 0.0500
+[peaceful-mp                                 ] step 42  E = -0.923592  alpha = 0.0500
+[peaceful-mp                                 ] step 43  E = -0.924746  alpha = 0.0500
+[peaceful-mp                                 ] step 44  E = -0.925870  alpha = 0.0500
+[peaceful-mp                                 ] step 45  E = -0.926964  alpha = 0.0500
+[peaceful-mp                                 ] step 46  E = -0.928031  alpha = 0.0500
+[peaceful-mp                                 ] step 47  E = -0.929070  alpha = 0.0500
+[peaceful-mp                                 ] step 48  E = -0.930082  alpha = 0.0500
+[peaceful-mp                                 ] step 49  E = -0.931069  alpha = 0.0500
+
+==================================================
+
+=== Conflict graph, message passing ===
+
+[conflict-mp                                 ] step  0  E = 5.897715  alpha = 0.3000
+[conflict-mp                                 ] step  1  E = 9.780013  alpha = 0.3000
+[conflict-mp                                 ] step  2  E = 11.667601  alpha = 0.3000
+[conflict-mp                                 ] step  3  E = 12.611385  alpha = 0.3600
+[conflict-mp                                 ] step  4  E = 13.232939  alpha = 0.4320
+[conflict-mp                                 ] step  5  E = 13.674136  alpha = 0.5184
+[conflict-mp                                 ] step  6  E = 14.043490  alpha = 0.6221
+[conflict-mp                                 ] step  7  E = 14.396875  alpha = 0.7465
+[conflict-mp                                 ] step  8  E = 14.745795  alpha = 0.8958
+[conflict-mp                                 ] step  9  E = 15.065963  alpha = 0.9000
+[conflict-mp                                 ] step 10  E = 15.286056  alpha = 0.9000
+[conflict-mp                                 ] step 11  E = 15.434598  alpha = 0.9000
+[conflict-mp                                 ] step 12  E = 15.523672  alpha = 0.9000
+[conflict-mp                                 ] step 13  E = 15.565993  alpha = 0.9000
+[conflict-mp                                 ] step 14  E = 15.586419  alpha = 0.9000
+[conflict-mp                                 ] step 15  E = 15.604347  alpha = 0.9000
+[conflict-mp                                 ] step 16  E = 15.629936  alpha = 0.9000
+[conflict-mp                                 ] step 17  E = 15.668128  alpha = 0.9000
+[conflict-mp                                 ] step 18  E = 15.708483  alpha = 0.9000
+[conflict-mp                                 ] step 19  E = 15.730429  alpha = 0.9000
+[conflict-mp                                 ] step 20  E = 15.737560  alpha = 0.9000
+[conflict-mp                                 ] step 21  E = 15.739497  alpha = 0.9000
+[conflict-mp                                 ] step 22  E = 15.740003  alpha = 0.9000
+[conflict-mp                                 ] step 23  E = 15.740149  alpha = 0.9000
+[conflict-mp                                 ] step 24  E = 15.740211  alpha = 0.9000
+[conflict-mp                                 ] step 25  E = 15.740255  alpha = 0.9000
+[conflict-mp                                 ] step 26  E = 15.740302  alpha = 0.9000
+[conflict-mp                                 ] step 27  E = 15.740361  alpha = 0.9000
+[conflict-mp                                 ] step 28  E = 15.740430  alpha = 0.9000
+[conflict-mp                                 ] step 29  E = 15.740515  alpha = 0.9000
+[conflict-mp                                 ] step 30  E = 15.740622  alpha = 0.9000
+[conflict-mp                                 ] step 31  E = 15.740746  alpha = 0.9000
+[conflict-mp                                 ] step 32  E = 15.740901  alpha = 0.9000
+[conflict-mp                                 ] step 33  E = 15.741092  alpha = 0.9000
+[conflict-mp                                 ] step 34  E = 15.741326  alpha = 0.9000
+[conflict-mp                                 ] step 35  E = 15.741611  alpha = 0.9000
+[conflict-mp                                 ] step 36  E = 15.741964  alpha = 0.9000
+[conflict-mp                                 ] step 37  E = 15.742401  alpha = 0.9000
+[conflict-mp                                 ] step 38  E = 15.742945  alpha = 0.9000
+[conflict-mp                                 ] step 39  E = 15.743631  alpha = 0.9000
+[conflict-mp                                 ] step 40  E = 15.744500  alpha = 0.9000
+[conflict-mp                                 ] step 41  E = 15.745617  alpha = 0.9000
+[conflict-mp                                 ] step 42  E = 15.747083  alpha = 0.9000
+[conflict-mp                                 ] step 43  E = 15.749029  alpha = 0.9000
+[conflict-mp                                 ] step 44  E = 15.751694  alpha = 0.9000
+[conflict-mp                                 ] step 45  E = 15.755451  alpha = 0.9000
+[conflict-mp                                 ] step 46  E = 15.760960  alpha = 0.9000
+[conflict-mp                                 ] step 47  E = 15.769418  alpha = 0.9000
+[conflict-mp                                 ] step 48  E = 15.783040  alpha = 0.9000
+[conflict-mp                                 ] step 49  E = 15.805545  alpha = 0.9000
+
+==================================================
+
+=== Conflict graph, gradient descent ===
+
+[conflict-gd                                 ] step  0  E = 1.098050  alpha = 0.3000
+[conflict-gd                                 ] step  1  E = 0.164844  alpha = 0.3000
+[conflict-gd                                 ] step  2  E = -0.776983  alpha = 0.3000
+[conflict-gd                                 ] step  3  E = -1.709747  alpha = 0.2700
+[conflict-gd                                 ] step  4  E = -2.526897  alpha = 0.2430
+[conflict-gd                                 ] step  5  E = -3.235162  alpha = 0.2187
+[conflict-gd                                 ] step  6  E = -3.845671  alpha = 0.1968
+[conflict-gd                                 ] step  7  E = -4.370968  alpha = 0.1771
+[conflict-gd                                 ] step  8  E = -4.823219  alpha = 0.1594
+[conflict-gd                                 ] step  9  E = -5.213381  alpha = 0.1435
+[conflict-gd                                 ] step 10  E = -5.550919  alpha = 0.1291
+[conflict-gd                                 ] step 11  E = -5.843842  alpha = 0.1162
+[conflict-gd                                 ] step 12  E = -6.098848  alpha = 0.1046
+[conflict-gd                                 ] step 13  E = -6.321528  alpha = 0.0941
+[conflict-gd                                 ] step 14  E = -6.516538  alpha = 0.0847
+[conflict-gd                                 ] step 15  E = -6.687769  alpha = 0.0763
+[conflict-gd                                 ] step 16  E = -6.838491  alpha = 0.0686
+[conflict-gd                                 ] step 17  E = -6.971450  alpha = 0.0618
+[conflict-gd                                 ] step 18  E = -7.088975  alpha = 0.0556
+[conflict-gd                                 ] step 19  E = -7.193047  alpha = 0.0500
+[conflict-gd                                 ] step 20  E = -7.285354  alpha = 0.0500
+[conflict-gd                                 ] step 21  E = -7.376369  alpha = 0.0500
+[conflict-gd                                 ] step 22  E = -7.466166  alpha = 0.0500
+[conflict-gd                                 ] step 23  E = -7.554762  alpha = 0.0500
+[conflict-gd                                 ] step 24  E = -7.642169  alpha = 0.0500
+[conflict-gd                                 ] step 25  E = -7.728403  alpha = 0.0500
+[conflict-gd                                 ] step 26  E = -7.813480  alpha = 0.0500
+[conflict-gd                                 ] step 27  E = -7.897414  alpha = 0.0500
+[conflict-gd                                 ] step 28  E = -7.980220  alpha = 0.0500
+[conflict-gd                                 ] step 29  E = -8.061913  alpha = 0.0500
+[conflict-gd                                 ] step 30  E = -8.142506  alpha = 0.0500
+[conflict-gd                                 ] step 31  E = -8.222013  alpha = 0.0500
+[conflict-gd                                 ] step 32  E = -8.300449  alpha = 0.0500
+[conflict-gd                                 ] step 33  E = -8.377827  alpha = 0.0500
+[conflict-gd                                 ] step 34  E = -8.454163  alpha = 0.0500
+[conflict-gd                                 ] step 35  E = -8.529468  alpha = 0.0500
+[conflict-gd                                 ] step 36  E = -8.603753  alpha = 0.0500
+[conflict-gd                                 ] step 37  E = -8.677035  alpha = 0.0500
+[conflict-gd                                 ] step 38  E = -8.749325  alpha = 0.0500
+[conflict-gd                                 ] step 39  E = -8.820634  alpha = 0.0500
+[conflict-gd                                 ] step 40  E = -8.890976  alpha = 0.0500
+[conflict-gd                                 ] step 41  E = -8.960362  alpha = 0.0500
+[conflict-gd                                 ] step 42  E = -9.028806  alpha = 0.0500
+[conflict-gd                                 ] step 43  E = -9.096317  alpha = 0.0500
+[conflict-gd                                 ] step 44  E = -9.162910  alpha = 0.0500
+[conflict-gd                                 ] step 45  E = -9.228591  alpha = 0.0500
+[conflict-gd                                 ] step 46  E = -9.293373  alpha = 0.0500
+[conflict-gd                                 ] step 47  E = -9.357269  alpha = 0.0500
+[conflict-gd                                 ] step 48  E = -9.420289  alpha = 0.0500
+[conflict-gd                                 ] step 49  E = -9.482444  alpha = 0.0500
+
+==================================================
+=== Conflict graph, weighted-GD conflict (1,1,1) ===
+
+[conflict-weighted-gd wc=1.0 ws=1.0          ] step  0  E = 1.090951  alpha = 0.3000
+[conflict-weighted-gd wc=1.0 ws=1.0          ] step  1  E = -0.194461  alpha = 0.3000
+[conflict-weighted-gd wc=1.0 ws=1.0          ] step  2  E = -1.475162  alpha = 0.3000
+[conflict-weighted-gd wc=1.0 ws=1.0          ] step  3  E = -2.723212  alpha = 0.2700
+[conflict-weighted-gd wc=1.0 ws=1.0          ] step  4  E = -3.795875  alpha = 0.2430
+[conflict-weighted-gd wc=1.0 ws=1.0          ] step  5  E = -4.706714  alpha = 0.2187
+[conflict-weighted-gd wc=1.0 ws=1.0          ] step  6  E = -5.474940  alpha = 0.1968
+[conflict-weighted-gd wc=1.0 ws=1.0          ] step  7  E = -6.121134  alpha = 0.1771
+[conflict-weighted-gd wc=1.0 ws=1.0          ] step  8  E = -6.664770  alpha = 0.1594
+[conflict-weighted-gd wc=1.0 ws=1.0          ] step  9  E = -7.123071  alpha = 0.1435
+[conflict-weighted-gd wc=1.0 ws=1.0          ] step 10  E = -7.510691  alpha = 0.1291
+[conflict-weighted-gd wc=1.0 ws=1.0          ] step 11  E = -7.839816  alpha = 0.1162
+[conflict-weighted-gd wc=1.0 ws=1.0          ] step 12  E = -8.120452  alpha = 0.1046
+[conflict-weighted-gd wc=1.0 ws=1.0          ] step 13  E = -8.360777  alpha = 0.0941
+[conflict-weighted-gd wc=1.0 ws=1.0          ] step 14  E = -8.567444  alpha = 0.0847
+[conflict-weighted-gd wc=1.0 ws=1.0          ] step 15  E = -8.745883  alpha = 0.0763
+[conflict-weighted-gd wc=1.0 ws=1.0          ] step 16  E = -8.900535  alpha = 0.0686
+[conflict-weighted-gd wc=1.0 ws=1.0          ] step 17  E = -9.035042  alpha = 0.0618
+[conflict-weighted-gd wc=1.0 ws=1.0          ] step 18  E = -9.152411  alpha = 0.0556
+[conflict-weighted-gd wc=1.0 ws=1.0          ] step 19  E = -9.255128  alpha = 0.0500
+[conflict-weighted-gd wc=1.0 ws=1.0          ] step 20  E = -9.345268  alpha = 0.0500
+[conflict-weighted-gd wc=1.0 ws=1.0          ] step 21  E = -9.433273  alpha = 0.0500
+[conflict-weighted-gd wc=1.0 ws=1.0          ] step 22  E = -9.519239  alpha = 0.0500
+[conflict-weighted-gd wc=1.0 ws=1.0          ] step 23  E = -9.603209  alpha = 0.0500
+[conflict-weighted-gd wc=1.0 ws=1.0          ] step 24  E = -9.685226  alpha = 0.0500
+[conflict-weighted-gd wc=1.0 ws=1.0          ] step 25  E = -9.765330  alpha = 0.0500
+[conflict-weighted-gd wc=1.0 ws=1.0          ] step 26  E = -9.843567  alpha = 0.0500
+[conflict-weighted-gd wc=1.0 ws=1.0          ] step 27  E = -9.919974  alpha = 0.0500
+[conflict-weighted-gd wc=1.0 ws=1.0          ] step 28  E = -9.994596  alpha = 0.0500
+[conflict-weighted-gd wc=1.0 ws=1.0          ] step 29  E = -10.067473  alpha = 0.0500
+[conflict-weighted-gd wc=1.0 ws=1.0          ] step 30  E = -10.138647  alpha = 0.0500
+[conflict-weighted-gd wc=1.0 ws=1.0          ] step 31  E = -10.208158  alpha = 0.0500
+[conflict-weighted-gd wc=1.0 ws=1.0          ] step 32  E = -10.276045  alpha = 0.0500
+[conflict-weighted-gd wc=1.0 ws=1.0          ] step 33  E = -10.342350  alpha = 0.0500
+[conflict-weighted-gd wc=1.0 ws=1.0          ] step 34  E = -10.407113  alpha = 0.0500
+[conflict-weighted-gd wc=1.0 ws=1.0          ] step 35  E = -10.470369  alpha = 0.0500
+[conflict-weighted-gd wc=1.0 ws=1.0          ] step 36  E = -10.532162  alpha = 0.0500
+[conflict-weighted-gd wc=1.0 ws=1.0          ] step 37  E = -10.592525  alpha = 0.0500
+[conflict-weighted-gd wc=1.0 ws=1.0          ] step 38  E = -10.651496  alpha = 0.0500
+[conflict-weighted-gd wc=1.0 ws=1.0          ] step 39  E = -10.709112  alpha = 0.0500
+[conflict-weighted-gd wc=1.0 ws=1.0          ] step 40  E = -10.765411  alpha = 0.0500
+[conflict-weighted-gd wc=1.0 ws=1.0          ] step 41  E = -10.820423  alpha = 0.0500
+[conflict-weighted-gd wc=1.0 ws=1.0          ] step 42  E = -10.874186  alpha = 0.0500
+[conflict-weighted-gd wc=1.0 ws=1.0          ] step 43  E = -10.926734  alpha = 0.0500
+[conflict-weighted-gd wc=1.0 ws=1.0          ] step 44  E = -10.978096  alpha = 0.0500
+[conflict-weighted-gd wc=1.0 ws=1.0          ] step 45  E = -11.028307  alpha = 0.0500
+[conflict-weighted-gd wc=1.0 ws=1.0          ] step 46  E = -11.077402  alpha = 0.0500
+[conflict-weighted-gd wc=1.0 ws=1.0          ] step 47  E = -11.125406  alpha = 0.0500
+[conflict-weighted-gd wc=1.0 ws=1.0          ] step 48  E = -11.172354  alpha = 0.0500
+[conflict-weighted-gd wc=1.0 ws=1.0          ] step 49  E = -11.218268  alpha = 0.0500
+  [conflict (1,1,1)] is_a: mean cos = -0.7921  min = -0.8830  max = -0.5670
+  [conflict (1,1,1)] causes: mean cos = -0.7921  min = -0.8830  max = -0.5670
+
+==================================================
+=== Conflict graph, weighted-GD low-conflict  (0.1,1,1) ===
+
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step  0  E = 2.291849  alpha = 0.3000
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step  1  E = 2.229175  alpha = 0.3000
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step  2  E = 2.166000  alpha = 0.3000
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step  3  E = 2.102316  alpha = 0.2700
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step  4  E = 2.044563  alpha = 0.2430
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step  5  E = 1.992226  alpha = 0.2187
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step  6  E = 1.944832  alpha = 0.1968
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step  7  E = 1.901938  alpha = 0.1771
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step  8  E = 1.863139  alpha = 0.1594
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step  9  E = 1.828063  alpha = 0.1435
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 10  E = 1.796365  alpha = 0.1291
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 11  E = 1.767732  alpha = 0.1162
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 12  E = 1.741877  alpha = 0.1046
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 13  E = 1.718539  alpha = 0.0941
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 14  E = 1.697478  alpha = 0.0847
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 15  E = 1.678478  alpha = 0.0763
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 16  E = 1.661340  alpha = 0.0686
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 17  E = 1.645886  alpha = 0.0618
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 18  E = 1.631953  alpha = 0.0556
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 19  E = 1.619394  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 20  E = 1.608074  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 21  E = 1.596747  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 22  E = 1.585404  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 23  E = 1.574046  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 24  E = 1.562672  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 25  E = 1.551283  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 26  E = 1.539879  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 27  E = 1.528459  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 28  E = 1.517024  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 29  E = 1.505574  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 30  E = 1.494108  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 31  E = 1.482627  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 32  E = 1.471130  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 33  E = 1.459618  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 34  E = 1.448090  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 35  E = 1.436547  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 36  E = 1.424988  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 37  E = 1.413414  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 38  E = 1.401823  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 39  E = 1.390218  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 40  E = 1.378597  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 41  E = 1.366960  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 42  E = 1.355307  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 43  E = 1.343639  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 44  E = 1.331955  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 45  E = 1.320256  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 46  E = 1.308540  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 47  E = 1.296809  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 48  E = 1.285062  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 49  E = 1.273299  alpha = 0.0500
+  [low-conflict  (0.1,1,1)] is_a: mean cos = +0.0374  min = -0.6517  max = +0.5699
+  [low-conflict  (0.1,1,1)] causes: mean cos = +0.0374  min = -0.6517  max = +0.5699
+
+==================================================
+=== Conflict graph, weighted-GD low-support   (1,1,0.1) ===
+
+[conflict-weighted-gd wc=1.0 ws=0.1          ] step  0  E = 1.016193  alpha = 0.3000
+[conflict-weighted-gd wc=1.0 ws=0.1          ] step  1  E = -0.343889  alpha = 0.3000
+[conflict-weighted-gd wc=1.0 ws=0.1          ] step  2  E = -1.694035  alpha = 0.3000
+[conflict-weighted-gd wc=1.0 ws=0.1          ] step  3  E = -3.001500  alpha = 0.2700
+[conflict-weighted-gd wc=1.0 ws=0.1          ] step  4  E = -4.115846  alpha = 0.2430
+[conflict-weighted-gd wc=1.0 ws=0.1          ] step  5  E = -5.053534  alpha = 0.2187
+[conflict-weighted-gd wc=1.0 ws=0.1          ] step  6  E = -5.837288  alpha = 0.1968
+[conflict-weighted-gd wc=1.0 ws=0.1          ] step  7  E = -6.490920  alpha = 0.1771
+[conflict-weighted-gd wc=1.0 ws=0.1          ] step  8  E = -7.036508  alpha = 0.1594
+[conflict-weighted-gd wc=1.0 ws=0.1          ] step  9  E = -7.493219  alpha = 0.1435
+[conflict-weighted-gd wc=1.0 ws=0.1          ] step 10  E = -7.877083  alpha = 0.1291
+[conflict-weighted-gd wc=1.0 ws=0.1          ] step 11  E = -8.201230  alpha = 0.1162
+[conflict-weighted-gd wc=1.0 ws=0.1          ] step 12  E = -8.476302  alpha = 0.1046
+[conflict-weighted-gd wc=1.0 ws=0.1          ] step 13  E = -8.710874  alpha = 0.0941
+[conflict-weighted-gd wc=1.0 ws=0.1          ] step 14  E = -8.911863  alpha = 0.0847
+[conflict-weighted-gd wc=1.0 ws=0.1          ] step 15  E = -9.084850  alpha = 0.0763
+[conflict-weighted-gd wc=1.0 ws=0.1          ] step 16  E = -9.234367  alpha = 0.0686
+[conflict-weighted-gd wc=1.0 ws=0.1          ] step 17  E = -9.364095  alpha = 0.0618
+[conflict-weighted-gd wc=1.0 ws=0.1          ] step 18  E = -9.477057  alpha = 0.0556
+[conflict-weighted-gd wc=1.0 ws=0.1          ] step 19  E = -9.575740  alpha = 0.0500
+[conflict-weighted-gd wc=1.0 ws=0.1          ] step 20  E = -9.662201  alpha = 0.0500
+[conflict-weighted-gd wc=1.0 ws=0.1          ] step 21  E = -9.746492  alpha = 0.0500
+[conflict-weighted-gd wc=1.0 ws=0.1          ] step 22  E = -9.828716  alpha = 0.0500
+[conflict-weighted-gd wc=1.0 ws=0.1          ] step 23  E = -9.908922  alpha = 0.0500
+[conflict-weighted-gd wc=1.0 ws=0.1          ] step 24  E = -9.987158  alpha = 0.0500
+[conflict-weighted-gd wc=1.0 ws=0.1          ] step 25  E = -10.063471  alpha = 0.0500
+[conflict-weighted-gd wc=1.0 ws=0.1          ] step 26  E = -10.137912  alpha = 0.0500
+[conflict-weighted-gd wc=1.0 ws=0.1          ] step 27  E = -10.210526  alpha = 0.0500
+[conflict-weighted-gd wc=1.0 ws=0.1          ] step 28  E = -10.281361  alpha = 0.0500
+[conflict-weighted-gd wc=1.0 ws=0.1          ] step 29  E = -10.350456  alpha = 0.0500
+[conflict-weighted-gd wc=1.0 ws=0.1          ] step 30  E = -10.417867  alpha = 0.0500
+[conflict-weighted-gd wc=1.0 ws=0.1          ] step 31  E = -10.483635  alpha = 0.0500
+[conflict-weighted-gd wc=1.0 ws=0.1          ] step 32  E = -10.547800  alpha = 0.0500
+[conflict-weighted-gd wc=1.0 ws=0.1          ] step 33  E = -10.610411  alpha = 0.0500
+[conflict-weighted-gd wc=1.0 ws=0.1          ] step 34  E = -10.671507  alpha = 0.0500
+[conflict-weighted-gd wc=1.0 ws=0.1          ] step 35  E = -10.731130  alpha = 0.0500
+[conflict-weighted-gd wc=1.0 ws=0.1          ] step 36  E = -10.789323  alpha = 0.0500
+[conflict-weighted-gd wc=1.0 ws=0.1          ] step 37  E = -10.846124  alpha = 0.0500
+[conflict-weighted-gd wc=1.0 ws=0.1          ] step 38  E = -10.901573  alpha = 0.0500
+[conflict-weighted-gd wc=1.0 ws=0.1          ] step 39  E = -10.955709  alpha = 0.0500
+[conflict-weighted-gd wc=1.0 ws=0.1          ] step 40  E = -11.008568  alpha = 0.0500
+[conflict-weighted-gd wc=1.0 ws=0.1          ] step 41  E = -11.060187  alpha = 0.0500
+[conflict-weighted-gd wc=1.0 ws=0.1          ] step 42  E = -11.110606  alpha = 0.0500
+[conflict-weighted-gd wc=1.0 ws=0.1          ] step 43  E = -11.159854  alpha = 0.0500
+[conflict-weighted-gd wc=1.0 ws=0.1          ] step 44  E = -11.207970  alpha = 0.0500
+[conflict-weighted-gd wc=1.0 ws=0.1          ] step 45  E = -11.254984  alpha = 0.0500
+[conflict-weighted-gd wc=1.0 ws=0.1          ] step 46  E = -11.300926  alpha = 0.0500
+[conflict-weighted-gd wc=1.0 ws=0.1          ] step 47  E = -11.345836  alpha = 0.0500
+[conflict-weighted-gd wc=1.0 ws=0.1          ] step 48  E = -11.389734  alpha = 0.0500
+[conflict-weighted-gd wc=1.0 ws=0.1          ] step 49  E = -11.432661  alpha = 0.0500
+  [low-support   (1,1,0.1)] is_a: mean cos = -0.8063  min = -0.8862  max = -0.6072
+  [low-support   (1,1,0.1)] causes: mean cos = -0.8063  min = -0.8862  max = -0.6072
+
+==================================================
+
+=== Shake test: low-conflict with vs without shake ===
+
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step  0  E = -0.807979  alpha = 0.3000
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step  1  E = -0.866400  alpha = 0.3000
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step  2  E = -0.925069  alpha = 0.3000
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step  3  E = -0.983986  alpha = 0.2700
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step  4  E = -1.037221  alpha = 0.2430
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step  5  E = -1.085300  alpha = 0.2187
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step  6  E = -1.128710  alpha = 0.1968
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step  7  E = -1.167888  alpha = 0.1771
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step  8  E = -1.203239  alpha = 0.1594
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step  9  E = -1.235128  alpha = 0.1435
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 10  E = -1.263887  alpha = 0.1291
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 11  E = -1.289817  alpha = 0.1162
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 12  E = -1.313193  alpha = 0.1046
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 13  E = -1.334263  alpha = 0.0941
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 14  E = -1.353251  alpha = 0.0847
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 15  E = -1.370361  alpha = 0.0763
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 16  E = -1.385777  alpha = 0.0686
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 17  E = -1.399663  alpha = 0.0618
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 18  E = -1.412173  alpha = 0.0556
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 19  E = -1.423440  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 20  E = -1.433588  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 21  E = -1.443736  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 22  E = -1.453891  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 23  E = -1.464053  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 24  E = -1.474222  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 25  E = -1.484398  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 26  E = -1.494581  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 27  E = -1.504771  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 28  E = -1.514967  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 29  E = -1.525170  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 30  E = -1.535380  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 31  E = -1.545598  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 32  E = -1.555821  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 33  E = -1.566052  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 34  E = -1.576290  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 35  E = -1.586535  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 36  E = -1.596786  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 37  E = -1.607044  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 38  E = -1.617309  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 39  E = -1.627581  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 40  E = -1.637861  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 41  E = -1.648146  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 42  E = -1.658438  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 43  E = -1.668737  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 44  E = -1.679044  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 45  E = -1.689357  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 46  E = -1.699677  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 47  E = -1.710003  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 48  E = -1.720337  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 49  E = -1.730677  alpha = 0.0500
+
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step  0  E = -0.807979  alpha = 0.3000
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step  1  E = -0.866400  alpha = 0.3000
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step  2  E = -0.925069  alpha = 0.3000
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step  3  E = -0.983986  alpha = 0.2700
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step  4  E = -1.037221  alpha = 0.2430
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step  5  E = -1.085300  alpha = 0.2187
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step  6  E = -1.128710  alpha = 0.1968
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step  7  E = -1.167888  alpha = 0.1771
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step  8  E = -1.203239  alpha = 0.1594
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step  9  E = -1.235128  alpha = 0.1435
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 10  E = -1.263887  alpha = 0.1291
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 11  E = -1.289817  alpha = 0.1162
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 12  E = -1.313193  alpha = 0.1046
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 13  E = -1.334263  alpha = 0.0941
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 14  E = -1.353251  alpha = 0.0847
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 15  E = -1.370361  alpha = 0.0763
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 16  E = -1.385777  alpha = 0.0686
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 17  E = -1.399663  alpha = 0.0618
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 18  E = -1.412173  alpha = 0.0556
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 19  E = -1.423440  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 20  E = -1.433588  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 21  E = -1.443736  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 22  E = -1.453891  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 23  E = -1.662390  alpha = 0.0500  <SHAKE>
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 24  E = -1.672496  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 25  E = -1.682607  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 26  E = -1.692726  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 27  E = -1.702851  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 28  E = -1.712983  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 29  E = -1.723121  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 30  E = -1.733266  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 31  E = -1.743418  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 32  E = -1.753576  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 33  E = -1.763740  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 34  E = -1.773912  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 35  E = -1.784090  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 36  E = -1.794274  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 37  E = -1.804466  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 38  E = -1.814663  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 39  E = -2.025426  alpha = 0.0500  <SHAKE>
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 40  E = -2.035563  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 41  E = -2.045707  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 42  E = -2.055858  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 43  E = -2.066014  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 44  E = -2.076177  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 45  E = -2.086346  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 46  E = -2.096521  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 47  E = -2.106703  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 48  E = -2.116891  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 49  E = -2.127085  alpha = 0.0500
+  => total shakes applied: 2, steps: [23, 39]
+  [low-conflict no shake] is_a: mean cos = -0.1696  min = -0.5144  max = +0.3238
+  [low-conflict no shake] causes: mean cos = -0.1696  min = -0.5144  max = +0.3238
+  [low-conflict + shake] is_a: mean cos = -0.1959  min = -0.5378  max = +0.2952
+  [low-conflict + shake] causes: mean cos = -0.1959  min = -0.5378  max = +0.2952
+
+Saved egn_convergence.png
+
+==================================================
+
+=== Long-run shake analysis: low-conflict + shake, 200 steps ===
+
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step  0  E = 2.768788  alpha = 0.3000
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step  1  E = 2.728334  alpha = 0.3000
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step  2  E = 2.687669  alpha = 0.3000
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step  3  E = 2.646789  alpha = 0.2700
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step  4  E = 2.609812  alpha = 0.2430
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step  5  E = 2.576380  alpha = 0.2187
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step  6  E = 2.546164  alpha = 0.1968
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step  7  E = 2.518867  alpha = 0.1771
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step  8  E = 2.494216  alpha = 0.1594
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step  9  E = 2.471960  alpha = 0.1435
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 10  E = 2.451873  alpha = 0.1291
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 11  E = 2.433748  alpha = 0.1162
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 12  E = 2.417399  alpha = 0.1046
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 13  E = 2.402654  alpha = 0.0941
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 14  E = 2.389358  alpha = 0.0847
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 15  E = 2.377371  alpha = 0.0763
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 16  E = 2.366567  alpha = 0.0686
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 17  E = 2.356829  alpha = 0.0618
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 18  E = 2.348054  alpha = 0.0556
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 19  E = 2.340148  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 20  E = 2.333025  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 21  E = 2.325900  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 22  E = 2.318768  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 23  E = 2.311629  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 24  E = 2.304482  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 25  E = 2.154494  alpha = 0.0500  <SHAKE>
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 26  E = 2.147305  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 27  E = 2.140109  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 28  E = 2.132905  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 29  E = 2.125695  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 30  E = 2.118477  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 31  E = 2.111252  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 32  E = 2.104021  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 33  E = 2.096782  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 34  E = 2.089536  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 35  E = 2.082283  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 36  E = 2.075023  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 37  E = 2.067756  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 38  E = 2.060481  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 39  E = 2.053200  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 40  E = 2.045911  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 41  E = 1.891200  alpha = 0.0500  <SHAKE>
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 42  E = 1.883868  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 43  E = 1.876529  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 44  E = 1.869182  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 45  E = 1.861828  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 46  E = 1.854467  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 47  E = 1.847098  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 48  E = 1.839722  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 49  E = 1.832339  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 50  E = 1.824948  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 51  E = 1.817550  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 52  E = 1.810144  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 53  E = 1.802732  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 54  E = 1.795311  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 55  E = 1.787883  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 56  E = 1.780447  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 57  E = 1.620952  alpha = 0.0500  <SHAKE>
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 58  E = 1.613474  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 59  E = 1.605989  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 60  E = 1.598496  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 61  E = 1.590995  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 62  E = 1.583487  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 63  E = 1.575971  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 64  E = 1.568448  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 65  E = 1.560916  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 66  E = 1.553377  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 67  E = 1.545831  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 68  E = 1.538277  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 69  E = 1.530715  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 70  E = 1.523144  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 71  E = 1.515567  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 72  E = 1.507981  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 73  E = 1.343658  alpha = 0.0500  <SHAKE>
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 74  E = 1.336031  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 75  E = 1.328397  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 76  E = 1.320754  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 77  E = 1.313104  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 78  E = 1.305446  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 79  E = 1.297780  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 80  E = 1.290106  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 81  E = 1.282424  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 82  E = 1.274735  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 83  E = 1.267037  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 84  E = 1.259331  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 85  E = 1.251617  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 86  E = 1.243895  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 87  E = 1.236165  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 88  E = 1.228428  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 89  E = 1.059247  alpha = 0.0500  <SHAKE>
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 90  E = 1.051470  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 91  E = 1.043684  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 92  E = 1.035891  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 93  E = 1.028089  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 94  E = 1.020279  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 95  E = 1.012460  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 96  E = 1.004634  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 97  E = 0.996800  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 98  E = 0.988957  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 99  E = 0.981106  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 100  E = 0.973247  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 101  E = 0.965380  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 102  E = 0.957504  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 103  E = 0.949620  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 104  E = 0.941728  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 105  E = 0.767683  alpha = 0.0500  <SHAKE>
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 106  E = 0.759753  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 107  E = 0.751815  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 108  E = 0.743869  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 109  E = 0.735914  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 110  E = 0.727951  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 111  E = 0.719979  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 112  E = 0.711999  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 113  E = 0.704011  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 114  E = 0.696014  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 115  E = 0.688009  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 116  E = 0.679995  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 117  E = 0.671974  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 118  E = 0.663943  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 119  E = 0.655904  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 120  E = 0.647857  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 121  E = 0.468964  alpha = 0.0500  <SHAKE>
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 122  E = 0.460881  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 123  E = 0.452790  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 124  E = 0.444691  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 125  E = 0.436582  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 126  E = 0.428466  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 127  E = 0.420341  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 128  E = 0.412207  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 129  E = 0.404065  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 130  E = 0.395914  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 131  E = 0.387754  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 132  E = 0.379585  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 133  E = 0.371409  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 134  E = 0.363223  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 135  E = 0.355029  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 136  E = 0.346826  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 137  E = 0.163127  alpha = 0.0500  <SHAKE>
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 138  E = 0.154892  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 139  E = 0.146649  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 140  E = 0.138397  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 141  E = 0.130136  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 142  E = 0.121867  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 143  E = 0.113589  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 144  E = 0.105302  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 145  E = 0.097006  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 146  E = 0.088701  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 147  E = 0.080388  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 148  E = 0.072066  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 149  E = 0.063735  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 150  E = 0.055395  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 151  E = 0.047047  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 152  E = 0.038689  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 153  E = -0.149744  alpha = 0.0500  <SHAKE>
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 154  E = -0.158130  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 155  E = -0.166524  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 156  E = -0.174926  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 157  E = -0.183338  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 158  E = -0.191758  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 159  E = -0.200188  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 160  E = -0.208626  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 161  E = -0.217073  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 162  E = -0.225529  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 163  E = -0.233994  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 164  E = -0.242468  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 165  E = -0.250951  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 166  E = -0.259443  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 167  E = -0.267944  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 168  E = -0.276454  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 169  E = -0.469518  alpha = 0.0500  <SHAKE>
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 170  E = -0.478050  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 171  E = -0.486592  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 172  E = -0.495142  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 173  E = -0.503701  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 174  E = -0.512270  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 175  E = -0.520847  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 176  E = -0.529433  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 177  E = -0.538029  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 178  E = -0.546633  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 179  E = -0.555247  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 180  E = -0.563869  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 181  E = -0.572500  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 182  E = -0.581141  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 183  E = -0.589791  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 184  E = -0.598450  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 185  E = -0.796002  alpha = 0.0500  <SHAKE>
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 186  E = -0.804678  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 187  E = -0.813363  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 188  E = -0.822057  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 189  E = -0.830760  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 190  E = -0.839471  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 191  E = -0.848192  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 192  E = -0.856922  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 193  E = -0.865661  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 194  E = -0.874409  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 195  E = -0.883166  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 196  E = -0.891932  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 197  E = -0.900707  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 198  E = -0.909492  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0 shake    ] step 199  E = -0.918286  alpha = 0.0500
+  => total shakes applied: 11, steps: [25, 41, 57, 73, 89, 105, 121, 137, 153, 169, 185]
+
+  Shake step indices: [25, 41, 57, 73, 89, 105, 121, 137, 153, 169, 185]
+  Intervals between shakes: [16, 16, 16, 16, 16, 16, 16, 16, 16, 16]
+  Min interval: 16, Max interval: 16, Mean interval: 16.0
+  First half mean interval: 16.0
+  Second half mean interval: 16.0
+  Last intervals: [16, 16, 16]
+  Steps since last shake: 14
+  [low-conflict + shake, 200 steps] is_a: mean cos = -0.1108  min = -0.4501  max = +0.3539
+  [low-conflict + shake, 200 steps] causes: mean cos = -0.1108  min = -0.4501  max = +0.3539
+
+==================================================
+
+=== Gradient norm analysis: low-conflict, 100 steps ===
+
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step  0  E = 2.097636  alpha = 0.3000
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step  1  E = 2.046549  alpha = 0.3000
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step  2  E = 1.995201  alpha = 0.3000
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step  3  E = 1.943589  alpha = 0.2700
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step  4  E = 1.896914  alpha = 0.2430
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step  5  E = 1.854724  alpha = 0.2187
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step  6  E = 1.816603  alpha = 0.1968
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step  7  E = 1.782174  alpha = 0.1771
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step  8  E = 1.751088  alpha = 0.1594
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step  9  E = 1.723032  alpha = 0.1435
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 10  E = 1.697715  alpha = 0.1291
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 11  E = 1.674877  alpha = 0.1162
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 12  E = 1.654279  alpha = 0.1046
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 13  E = 1.635707  alpha = 0.0941
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 14  E = 1.618964  alpha = 0.0847
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 15  E = 1.603872  alpha = 0.0763
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 16  E = 1.590269  alpha = 0.0686
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 17  E = 1.578013  alpha = 0.0618
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 18  E = 1.566970  alpha = 0.0556
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 19  E = 1.557021  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 20  E = 1.548059  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 21  E = 1.539095  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 22  E = 1.530124  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 23  E = 1.521144  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 24  E = 1.512157  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 25  E = 1.503162  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 26  E = 1.494159  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 27  E = 1.485149  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 28  E = 1.476130  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 29  E = 1.467105  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 30  E = 1.458071  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 31  E = 1.449029  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 32  E = 1.439980  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 33  E = 1.430923  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 34  E = 1.421858  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 35  E = 1.412786  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 36  E = 1.403705  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 37  E = 1.394617  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 38  E = 1.385521  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 39  E = 1.376417  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 40  E = 1.367306  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 41  E = 1.358186  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 42  E = 1.349059  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 43  E = 1.339923  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 44  E = 1.330780  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 45  E = 1.321629  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 46  E = 1.312471  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 47  E = 1.303304  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 48  E = 1.294130  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 49  E = 1.284947  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 50  E = 1.275757  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 51  E = 1.266559  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 52  E = 1.257353  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 53  E = 1.248139  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 54  E = 1.238917  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 55  E = 1.229688  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 56  E = 1.220450  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 57  E = 1.211205  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 58  E = 1.201952  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 59  E = 1.192690  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 60  E = 1.183421  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 61  E = 1.174144  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 62  E = 1.164859  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 63  E = 1.155566  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 64  E = 1.146266  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 65  E = 1.136957  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 66  E = 1.127640  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 67  E = 1.118315  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 68  E = 1.108983  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 69  E = 1.099642  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 70  E = 1.090294  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 71  E = 1.080938  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 72  E = 1.071574  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 73  E = 1.062201  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 74  E = 1.052821  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 75  E = 1.043433  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 76  E = 1.034037  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 77  E = 1.024633  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 78  E = 1.015220  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 79  E = 1.005800  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 80  E = 0.996372  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 81  E = 0.986936  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 82  E = 0.977492  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 83  E = 0.968040  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 84  E = 0.958580  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 85  E = 0.949113  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 86  E = 0.939637  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 87  E = 0.930153  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 88  E = 0.920661  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 89  E = 0.911161  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 90  E = 0.901654  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 91  E = 0.892138  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 92  E = 0.882615  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 93  E = 0.873082  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 94  E = 0.863543  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 95  E = 0.853995  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 96  E = 0.844440  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 97  E = 0.834876  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 98  E = 0.825304  alpha = 0.0500
+[conflict-weighted-gd wc=0.1 ws=1.0          ] step 99  E = 0.815725  alpha = 0.0500
+
+Saved egn_gradient_norm.png
+
+  ||F|| at start:  0.194152
+  ||F|| at step 20: 0.186979
+  ||F|| at step 50: 0.184027
+  ||F|| at step 99: 0.179460
+  Final E: 0.815725
+  Last 10 ||F|| values: ['0.180276', '0.180185', '0.180094', '0.180003', '0.179912', '0.179821', '0.179731', '0.179640', '0.179550', '0.179460']
+  Min ||F|| in last 10: 0.179460
+
+==================================================
+
+=== Dynamic weights: w_conflict = sigmoid(k*(||g_c||-th)) no shake ===
+
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step  0  E = 2.121477  alpha = 0.3000
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step  1  E = 0.815545  alpha = 0.3000
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step  2  E = -0.500266  alpha = 0.3000
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step  3  E = -1.787503  alpha = 0.2700
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step  4  E = -2.889807  alpha = 0.2430
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step  5  E = -3.817835  alpha = 0.2187
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step  6  E = -4.592547  alpha = 0.1968
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step  7  E = -5.237878  alpha = 0.1771
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step  8  E = -5.776496  alpha = 0.1594
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step  9  E = -6.228012  alpha = 0.1435
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 10  E = -6.608608  alpha = 0.1291
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 11  E = -6.931329  alpha = 0.1162
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 12  E = -7.206574  alpha = 0.1046
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 13  E = -7.442631  alpha = 0.0941
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 14  E = -7.646108  alpha = 0.0847
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 15  E = -7.822316  alpha = 0.0763
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 16  E = -7.975542  alpha = 0.0686
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 17  E = -8.109279  alpha = 0.0618
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 18  E = -8.226390  alpha = 0.0556
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 19  E = -8.329247  alpha = 0.0500
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 20  E = -8.419818  alpha = 0.0500
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 21  E = -8.508539  alpha = 0.0500
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 22  E = -8.595512  alpha = 0.0500
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 23  E = -8.680784  alpha = 0.0500
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 24  E = -8.764395  alpha = 0.0500
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 25  E = -8.846386  alpha = 0.0500
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 26  E = -8.926804  alpha = 0.0500
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 27  E = -9.005680  alpha = 0.0500
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 28  E = -9.083059  alpha = 0.0500
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 29  E = -9.158978  alpha = 0.0500
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 30  E = -9.233471  alpha = 0.0500
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 31  E = -9.306574  alpha = 0.0500
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 32  E = -9.378325  alpha = 0.0500
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 33  E = -9.448750  alpha = 0.0500
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 34  E = -9.517888  alpha = 0.0500
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 35  E = -9.585767  alpha = 0.0500
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 36  E = -9.652418  alpha = 0.0500
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 37  E = -9.717871  alpha = 0.0500
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 38  E = -9.782151  alpha = 0.0500
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 39  E = -9.845291  alpha = 0.0500
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 40  E = -9.907312  alpha = 0.0500
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 41  E = -9.968245  alpha = 0.0500
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 42  E = -10.028111  alpha = 0.0500
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 43  E = -10.086935  alpha = 0.0500
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 44  E = -10.144742  alpha = 0.0500
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 45  E = -10.201551  alpha = 0.0500
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 46  E = -10.257389  alpha = 0.0500
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 47  E = -10.312272  alpha = 0.0500
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 48  E = -10.366224  alpha = 0.0500
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 49  E = -10.419265  alpha = 0.0500
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 50  E = -10.471410  alpha = 0.0500
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 51  E = -10.522682  alpha = 0.0500
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 52  E = -10.573099  alpha = 0.0500
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 53  E = -10.622676  alpha = 0.0500
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 54  E = -10.671433  alpha = 0.0500
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 55  E = -10.719384  alpha = 0.0500
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 56  E = -10.766548  alpha = 0.0500
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 57  E = -10.812939  alpha = 0.0500
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 58  E = -10.858570  alpha = 0.0500
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 59  E = -10.903461  alpha = 0.0500
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 60  E = -10.947623  alpha = 0.0500
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 61  E = -10.991069  alpha = 0.0500
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 62  E = -11.033816  alpha = 0.0500
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 63  E = -11.075877  alpha = 0.0500
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 64  E = -11.117261  alpha = 0.0500
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 65  E = -11.157986  alpha = 0.0500
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 66  E = -11.198060  alpha = 0.0500
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 67  E = -11.237498  alpha = 0.0500
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 68  E = -11.276309  alpha = 0.0500
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 69  E = -11.314508  alpha = 0.0500
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 70  E = -11.352103  alpha = 0.0500
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 71  E = -11.389110  alpha = 0.0500
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 72  E = -11.425532  alpha = 0.0500
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 73  E = -11.461387  alpha = 0.0500
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 74  E = -11.496680  alpha = 0.0500
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 75  E = -11.531425  alpha = 0.0500
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 76  E = -11.565630  alpha = 0.0500
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 77  E = -11.599304  alpha = 0.0500
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 78  E = -11.632455  alpha = 0.0500
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 79  E = -11.665098  alpha = 0.0500
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 80  E = -11.697240  alpha = 0.0500
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 81  E = -11.728885  alpha = 0.0500
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 82  E = -11.760046  alpha = 0.0500
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 83  E = -11.790730  alpha = 0.0500
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 84  E = -11.820948  alpha = 0.0500
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 85  E = -11.850706  alpha = 0.0500
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 86  E = -11.880013  alpha = 0.0500
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 87  E = -11.908874  alpha = 0.0500
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 88  E = -11.937303  alpha = 0.0500
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 89  E = -11.965302  alpha = 0.0500
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 90  E = -11.992882  alpha = 0.0500
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 91  E = -12.020048  alpha = 0.0500
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 92  E = -12.046807  alpha = 0.0500
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 93  E = -12.073170  alpha = 0.0500
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 94  E = -12.099141  alpha = 0.0500
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 95  E = -12.124724  alpha = 0.0500
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 96  E = -12.149934  alpha = 0.0500
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 97  E = -12.174770  alpha = 0.0500
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 98  E = -12.199240  alpha = 0.0500
+[conflict-weighted-gd dw(k=5.0,th=0.15)      ] step 99  E = -12.223354  alpha = 0.0500
+
+  w_conflict trajectory (every 5 steps):
+  step   w_conflict   ||g_c||     E
+     0   1.0000       2.1702   3.3837
+     5   0.9999       2.0863   -3.0094
+    10   0.9990       1.5361   -7.5476
+    20   0.9766       0.8959   -11.3757
+    30   0.9039       0.5982   -12.8117
+    40   0.8150       0.4466   -13.4692
+    50   0.7398       0.3590   -13.8396
+    70   0.6225       0.2500   -14.2427
+    99   0.5088       0.1571   -14.5168
+
+  Final w_conflict: 0.5088
+  w_conflict range: [0.5088, 1.0000]
+  E range: [-12.2234, 2.1215]
+  Final E: -12.2234
